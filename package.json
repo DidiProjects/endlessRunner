@@ -1,0 +1,26 @@
+{
+  "name": "endless-runner",
+  "version": "1.0.0",
+  "description": "Endless Runner Game with Phaser 3 and TypeScript - Retro Style",
+  "main": "dist/bundle.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "phaser",
+    "typescript",
+    "endless-runner",
+    "retro-game"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0"
+  }
+}
